@@ -1,7 +1,8 @@
 # Dhia Romdhane
 ### AI Engineering, Real-Time Data Ingestion & Agentic Systems
 **Data Science & Artificial Intelligence Engineering Student — ESPRIT (Class of 2027)**  
-*Sousse, Tunisia • Open to Opportunities (PFE Internship — February 2027)*
+*Sousse, Tunisia • Open to Opportunities (PFE Internship — February 2027)*  
+[LinkedIn](https://www.linkedin.com/in/dhia-romdhane-ds/) • [GitHub](https://github.com/dhia10) • [Email](mailto:dhia.romdhane@esprit.tn)
 
 ---
 
@@ -71,6 +72,7 @@ Experienced in architecting asynchronous event-driven pipelines, grounding LLM o
 ## Contact & Availability
 
 - **Status:** Actively seeking an **End-of-Studies Internship (Stage PFE — 6 months)** starting **February 2027**.
+- **LinkedIn:** [linkedin.com/in/dhia-romdhane-ds](https://www.linkedin.com/in/dhia-romdhane-ds/)
 - **Email:** [dhia.romdhane@esprit.tn](mailto:dhia.romdhane@esprit.tn)
 - **Location:** Sousse, Tunisia (Open to relocation & international mobility)
 - **GitHub:** [github.com/dhia10](https://github.com/dhia10)
