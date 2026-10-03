@@ -3,7 +3,7 @@
 **Data Science & AI Engineering Student @ ESPRIT (Tunisia)**  
 *Building reliable data pipelines, real-time ingestion services, and localized AI systems.*
 
-[LinkedIn](https://linkedin.com/in/dhia-romdhane-ds) • [GitHub](https://github.com/dhia10) • [Email](mailto:dhia.romdhane@esprit.tn)  
+[GitHub](https://github.com/dhia10) • [Email](mailto:dhia.romdhane@esprit.tn)  
 *Sousse, Tunisia • Open to relocation • Seeking a 6-month End-of-Studies Internship (PFE) starting February 2027*
 
 ---
@@ -73,6 +73,5 @@ My daily stack revolves around **Python (FastAPI)**, **PostgreSQL**, **vector se
 ### 📬 Get In Touch
 
 * **Email:** [dhia.romdhane@esprit.tn](mailto:dhia.romdhane@esprit.tn)
-* **LinkedIn:** [linkedin.com/in/dhia-romdhane-ds](https://linkedin.com/in/dhia-romdhane-ds)
 * **GitHub:** [github.com/dhia10](https://github.com/dhia10)
 * **Status:** Actively interviewing for **February 2027 PFE internships** (Sousse, Remote, or Relocation).
